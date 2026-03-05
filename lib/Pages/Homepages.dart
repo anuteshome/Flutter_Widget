@@ -24,7 +24,7 @@ class Homepages extends StatelessWidget {
               color: Colors.black,
               width: 2
             ),
-            borderRadius: BorderRadius.circular(20)
+            borderRadius: BorderRadius.circular(20),
               // color: Colors.deepPurpleAccent,
 
           ),
